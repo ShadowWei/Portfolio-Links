@@ -8,3 +8,5 @@ https://shadowwei.github.io/DataVisHW_Tree/
 https://shadowwei.github.io/DataVis_Charts/
 
 https://shadowwei.github.io/WorldHealthData/
+
+https://shadowwei.github.io/Presidential-Predictions2020/
