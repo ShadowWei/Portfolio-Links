@@ -1,5 +1,5 @@
 # Portfolio-Links
-Public repository that contains a file for links of my private repositories' active webpages. 
+Public repository that contains a file for links of my private repositories' active webpages. All of these webpages are hosted on github pages. 
 
 Links: 
 
@@ -17,3 +17,4 @@ Displays the world's health data ranging 1800s to 2020. Clickable countries, bub
 
 https://shadowwei.github.io/Presidential-Predictions2020/
 Shows state predictions for the 2020 election. (explore!)
+
